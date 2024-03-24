@@ -6,7 +6,7 @@ let imagesLoaded = 0;
 let totalImages = 0;
 let photosArray = [];
 
-//to load 30 img takes a lot of time. need to improve
+//to load 30 img takes a lot of time, need to improve
 
 //unsplash API
 let count = 5;
